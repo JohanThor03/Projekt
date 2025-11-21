@@ -5,7 +5,7 @@ Campus MDU
 Målgruppen är studenter, personal och andra användare av lokalerna på MDU campus. 
 
 ## Ide 
-Vi vill använda en passive infrared censor för att tända lampor i ett rum. Efter x antal minuter av att ingen har rört sig i rummet ska lamporna släckas. 
+Vi vill använda en passive infrared censor för att tända lampor i ett rum. Efter x antal minuter av att ingen befinner sig i rummet ska lamporna släckas. 
 
 ## Syfte/mål 
 * Underlätta användares vardag, inte behöva tända lampor och inte behöva oroa sig för att lamporna är på i onödan. Eller i situationer där man behöver lämna lokalen snabbt, behöver man inte tänka på att släcka lampan, det sker automatiskt.
