@@ -16,7 +16,7 @@ Vi vill använda en passive infrared censor för att tända lampor i ett rum. Ef
 
 ## Kunskap 
 * Genom att se trender på närvaro i rummet och under vilka tider kan lokalägare bedöma om lokalen behövs eller ej, av datan hur mycket rummet används och hur populärt är det under vissa tider. Kanske väljer att utveckla en lokal som är mer populär, med möbler m.m.
-
+* För studenter: se under vilka tider och dagar ett visst rum används som mest, för att kunna välja eller undvika om man vill. 
 * Är lamporna på eller inte och hur länge har de vart på, går att se remote. 
 
 <img width="334" height="575" alt="image" src="https://github.com/user-attachments/assets/164ea933-e68b-4879-b77e-5b6dce00353f" />
